@@ -1,0 +1,53 @@
+.backblue  {
+    background-color: #053F5C;
+}
+
+.navpad-left {
+    padding-left: 10%;
+}
+
+.navpad-right {
+    padding-right: 8%;
+}
+
+.centered {
+    text-align: center;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.flex-cont-body {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.text-movies {
+    text-align: justify;
+}
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+
+.img-resize {
+    display: block;
+    max-width: 45%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-carousel {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    max-width: 80%;
+    height: auto;
+}
